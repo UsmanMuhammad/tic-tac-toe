@@ -4,9 +4,9 @@
 
 This is a basic Tic Tac Toe game implemented in React Native with Expo.
 We are utilizing **npx** to use Expo CLI without installation.
-Complete installation and running the app guide is available [here][https://docs.expo.dev/get-started/installation/]
+Complete installation and running the app guide is available [here](https://docs.expo.dev/get-started/installation/)
 
-First of all, you need [Expo Go][https://expo.dev/client] app downloaded on your mobile.
+First of all, you need [Expo Go](https://expo.dev/client) app downloaded on your mobile.
 
 ## `yarn install`
 
